@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<stdlib>
 int main()
 {
   int array[100], n, i, d, swap;
